@@ -1,0 +1,66 @@
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\bin\Debug\Hastane_Otomasyon.exe.config
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\bin\Debug\Hastane_Otomasyon.exe
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\bin\Debug\Hastane_Otomasyon.pdb
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.csprojResolveAssemblyReference.cache
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorBilgiDüzenle.resources
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorDetay.resources
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmGirisler.resources
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmHastaGiris.resources
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmHastaKayıt.resources
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmRandevuListesi.resources
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmSekreterDetay.resources
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmSekreterGiris.resources
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.Properties.Resources.resources
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.csproj.GenerateResource.Cache
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.exe
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.pdb
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmBilgiDüzenle.resources
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmBrans.resources
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorGiris.resources
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorPaneli.resources
+c:\users\muhammed\onedrive\belgeler\visual studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmHastaDetay.resources
+C:\Users\Muhammed\OneDrive\Belgeler\Visual Studio 2013\Projects\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDuyurular.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\bin\Debug\Hastane_Otomasyon.exe.config
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.exe
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.pdb
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\bin\Debug\Hastane_Otomasyon.exe
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\bin\Debug\Hastane_Otomasyon.pdb
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmBilgiDüzenle.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmBrans.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorBilgiDüzenle.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorDetay.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorGiris.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorPaneli.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDuyurular.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmGirisler.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmHastaDetay.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmHastaGiris.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmHastaKayıt.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmRandevuListesi.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmSekreterDetay.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmSekreterGiris.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.Properties.Resources.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.csproj.GenerateResource.Cache
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\bin\Debug\Hastane_Otomasyon.exe.config
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\bin\Debug\Hastane_Otomasyon.exe
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmBilgiDüzenle.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmBrans.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorBilgiDüzenle.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorDetay.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorGiris.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorPaneli.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDuyurular.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmGirisler.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmHastaDetay.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmHastaGiris.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmHastaKayıt.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmRandevuListesi.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmSekreterDetay.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.FrmSekreterGiris.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.Properties.Resources.resources
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.csproj.GenerateResource.cache
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.exe
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.pdb
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\bin\Debug\Hastane_Otomasyon.pdb
+C:\Users\Muhammed\OneDrive\Masaüstü\DOSYALAR\Hastane_Otomasyon\Hastane_Otomasyon\obj\Debug\Hastane_Otomasyon.csprojResolveAssemblyReference.cache
